@@ -1,0 +1,11 @@
+__pycache__
+__pycache__/*
+datasets
+datasets/*
+*.png
+experiments
+experiments/*
+experiments_bak
+experiments_bak/*
+tb_logger
+tb_logger/*
